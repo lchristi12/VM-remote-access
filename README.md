@@ -60,7 +60,7 @@ On this page, make sure the subscription is on the free one that was created--> 
 
 </p>
 <p>
-Go to the VM page click create-->select the correct subscription--> Resource group, select the one we have created--> VM name, create a name--> Region, select the same region previously (East US 2)--> Then click review and create.
+Go to the VM page and click create--> select the correct subscription--> Resource group, select the one we have created--> VM name, create a name--> Region, select the same region previously (East US 2)--> Then click review and create.
 </p>
 <br />
 
@@ -89,7 +89,7 @@ On this page, click on the VM we just created and this is the page where you can
 
 </p>
 <p>
-Next, we are going to use the program, Remote Desktop Connection, to connect to the VM. Obatin the IP address by either scrolling right on the VM page near the VM or click on the VM itself.
+Next, we are going to use the program, Remote Desktop Connection, to connect to the VM. Obatin the IP address by either scrolling right on the VM page near the VM or click on the VM itself. This may look different if you use a MAC computer.
 </p>
 <br />
 
@@ -105,4 +105,13 @@ Copy and paste the IP address and click connect. Enter the credentials. The user
 <p>
 <img width="780" height="538" alt="Screenshot 2025-08-30 202551" src="https://github.com/user-attachments/assets/47f8125c-ae91-489d-81c9-5e4b9d892bc8" />
 <img width="2000" height="1124" alt="Annotation 2025-08-31 002901" src="https://github.com/user-attachments/assets/8122e9e4-de72-41b2-955d-862408131d92" />
-You should be able to connect to the VM afterwords. This is the end of the tutorial. Utiling these steps will help with other tutorials like deploying active directory, installing OS ticketing system, and testing protocols like SSH, DHCP, RDP, DNS, etc
+You should be able to connect to the VM afterwords. This is the end of the tutorial. Utiling these steps will help with other tutorials like deploying active directory, installing OS ticketing system, and testing protocols like SSH, DHCP, RDP, DNS, etc. VMs will be vital for those tutorials as well.
+
+</p>
+<p>
+Remember, when you are finished with the tutorial, delete the VM so no additional charges will apply to your account. On the VM page, check off the name of the VM and click delete. You may have to copy and paste the name of the VM to delete or type delete to force it. Do the same process when deleting your resource group as well.
+</p>
+<br />
+
+<p>
+<img width="1974" height="1314" alt="Screenshot 2025-08-30 203217" src="https://github.com/user-attachments/assets/5520e193-6fcb-4f8d-b198-c78f802a0416" />
