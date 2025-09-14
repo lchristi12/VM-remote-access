@@ -25,25 +25,49 @@ In this tutorial, we will set up Virtual Machines in Azure and utilize remote ac
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2098" height="1120" alt="Screenshot 2025-08-30 193458" src="https://github.com/user-attachments/assets/bd39f0cb-f496-400b-ae56-c5ef0f377565" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Before you get started with creating Virtual Machines or VMs, you have to create an account with Aure. If you want to get the hang of Azure first, you could use a free subscription which will supply 200 dollars in free credit to use. Go to www.azure.portal.com to sign up with a email account and filling out the information prompts. After signing up, you will be presented with the home page where you have various options like creating VMs, resourse groups, storage accounts, etc.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2314" height="1176" alt="Screenshot 2025-08-30 193709" src="https://github.com/user-attachments/assets/93e80516-d323-4677-9f13-37b603a987dc" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We are going to first create a resource group. You could click resource group on the front page or search it in the search bar on top.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1882" height="1220" alt="Screenshot 2025-08-30 194238" src="https://github.com/user-attachments/assets/edb70906-4091-4e08-a0cf-6e39bcd73eb2" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On this page, make sure the subscription is on the free one that was created--> For the name, you can name it whatever you want but make sure that is the name used for the VMs--> and select the region. For this tutorial, East US 2--> Then click review and create.
+</p>
+<br />
+
+<p>
+<img width="1952" height="1130" alt="Screenshot 2025-08-30 194741" src="https://github.com/user-attachments/assets/9d0cb384-fb95-4e82-ad74-91fe1e5e4e6c" />
+
+
+</p>
+<p>
+Select the correct subscription--> Resource group, select the one we have created--> Storage account name, create a name--> Region, select the same region previously (East US 2)--> Then click review and create.
+</p>
+<br />
+
+<p>
+<img width="1294" height="1220" alt="Screenshot 2025-08-30 195033" src="https://github.com/user-attachments/assets/11433113-fe2d-4ceb-9673-28e6e5e806ce" />
+
+
+
+</p>
+<p>
+
 </p>
 <br />
